@@ -1,0 +1,8 @@
+Type: Package
+Package: r.test
+Title: Minimal R package including unit tests
+Description: Minimal R package including unit tests
+Author: Gergely Daróczi <daroczig@rapporter.net>
+Author: Gergely Daróczi <daroczig@rapporter.net>
+Version: 0.1
+Date: 2015-03-07
