@@ -3,9 +3,8 @@
 #' @return numeric vector
 #' @export
 f <- function(x) {
-    if (is.numeric(x)) {
+    if (is.numeric(x))
         return(x)
-    } else {
+    else
         as.numeric(x)
-    }
 }
