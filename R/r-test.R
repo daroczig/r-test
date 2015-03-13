@@ -15,7 +15,7 @@ f <- function(x) {
         x <- as.numeric(x)
     }
 
-    ## end of fn
+    ## comment
     return(0)
 
 }
