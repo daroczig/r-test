@@ -4,8 +4,18 @@
 #' @export
 f <- function(x) {
     if (is.numeric(x)) {
+
+        ## compute stuff
+        1 + 1
+
+        ## return here
         return(x)
+
     } else {
-        as.numeric(x)
+        x <- as.numeric(x)
     }
+
+    ## end of fn
+    return(0)
+
 }
